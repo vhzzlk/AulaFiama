@@ -9,7 +9,7 @@ public class SituaçãoDesafiadora {
         System.out.print("Digite o salário bruto: R$ ");
         double salarioBruto = scanner.nextDouble();
 
-        System.out.print("Digite o número de dependentes: ");x
+        System.out.print("Digite o número de dependentes: ");
         int dependentes = scanner.nextInt();
 
         System.out.print("Digite o tipo do plano de saúde (Básico/Avançado/Nenhum): ");
